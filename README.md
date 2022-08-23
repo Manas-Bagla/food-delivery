@@ -1,5 +1,5 @@
 
-food-delivery-manas.netlify.app
+https://food-delivery-manas.netlify.app
 
 
 
